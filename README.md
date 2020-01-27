@@ -1,2 +1,2 @@
-# Introduction to Artificial Intelligence - 2019 Spring
-Codes of the experiments in Introduction to Artificial Intelligence
+# Introduction to Artificial Intelligence
+Course projects for Introduction to Artificial Intelligence, Tsinghua University, 2019 Spring.
